@@ -63,7 +63,7 @@
 
 > A Vue.js 2.0 UI Toolkit for Web.
 
-## Linkss
+## Linkssssss
 - Homepage and documentation
   - [International users](http://element.eleme.io/#/en-US)
   - [Chinese users](http://element-cn.eleme.io/#/zh-CN)
